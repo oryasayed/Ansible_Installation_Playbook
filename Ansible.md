@@ -130,10 +130,16 @@ Now it doesn't need password
 2. hosts
 3. roles
    we will edit the ansible config file
+
+   
    
    ![image](https://github.com/user-attachments/assets/01f5822c-16f6-48a2-98c0-fa4a91273ba6)
 
+   
+
    commentout the inventory line
+
+   
    
    <img width="200" alt="image" src="https://github.com/user-attachments/assets/ddb4adfd-d197-45d6-9bf1-3fc29bae4f3b">
 
@@ -146,9 +152,16 @@ Create a group in hosts file (i.e; webservers / web-group / dbservers)
 <img width="247" alt="image" src="https://github.com/user-attachments/assets/921e3f7f-6a7a-4893-a3ea-cf0823925a5d">
 
 
+
+
 <img width="158" alt="image" src="https://github.com/user-attachments/assets/6d8d9185-d0c8-41da-aa0e-e0861b40481d">
 
+
+
+
 <img width="1705" alt="image" src="https://github.com/user-attachments/assets/fa890a6d-329b-4f20-ad6c-e2d548814deb">
+
+
 
 
 
