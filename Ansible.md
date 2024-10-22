@@ -130,9 +130,11 @@ Now it doesn't need password
 2. hosts
 3. roles
    we will edit the ansible config file
+   
    ![image](https://github.com/user-attachments/assets/01f5822c-16f6-48a2-98c0-fa4a91273ba6)
 
-   and uncomment the inventory line
+   commentout the inventory line
+   
    <img width="200" alt="image" src="https://github.com/user-attachments/assets/ddb4adfd-d197-45d6-9bf1-3fc29bae4f3b">
 
 
