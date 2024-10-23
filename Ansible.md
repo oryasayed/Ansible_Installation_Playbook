@@ -38,6 +38,7 @@ passwd ansibleusr
 **Provide Sudeoer permissions**
 ```bash
 visudo
+
 <img width="301" alt="image" src="https://github.com/user-attachments/assets/d7c40a36-5087-468b-a2d7-b4d48306c87a">
 
 ```
@@ -63,6 +64,7 @@ now we have to go node and use the same method for the ansible user
 vim /etc/ssh/sshd_config
 ```
 ```bash
+
 <img width="128" alt="image" src="https://github.com/user-attachments/assets/be208270-ce8b-406f-8679-5f7b63174740">
 
 Set "PasswordAuthentication yes"
